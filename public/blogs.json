@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/4N8kktq/florian-olivo-JNz9b-QD3-Oio-unsplash.jpg",
+      "title": "The Lost Kingdom",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/ZYKRdx4/portrait-smiling-blonde-woman.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 7,
+      "hashtags": ["#adventure", "#fantasy", "#mystery"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/qRqJ7wz/top-view-desk-concept-with-smartphone.jpg",
+      "title": "Into the Unknown",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/G765jsg/front-view-smiley-woman-seaside.jpg",
+      "posted_date": "May 22 (18 Days ago)",
+      "reading_time": 5,
+      "hashtags": ["#sci-fi", "#exploration", "#space"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/BZzNwNt/coffee-mug-with-drawing-foam-photo-camera.jpg",
+      "title": "The Art of Letting Go",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/qrDgjB9/bohemian-man-with-his-arms-crossed.jpg",
+      "posted_date": "Feb 14 (5 Month 4 Days ago)",
+      "reading_time": 3,
+      "hashtags": ["#selfhelp", "#mindfulness", "#growth"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/4PW3BTR/andras-vas-Bd7g-Nn-WJBk-U-unsplash.jpg",
+      "title": "Mysteries of the Deep",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/9ZtZwrQ/portrait-young-bearded-man-looking-camera.jpg",
+      "posted_date": "Oct 14 (14 Days ago)",
+      "reading_time": 10,
+      "hashtags": ["#ocean", "#nature", "#wildlife"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/kJBH2pG/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+      "title": "Digital Nomad's Guide",
+      "author": "Sophia Lee",
+      "author_img": "https://pexels.com/photo/author5",
+      "posted_date": "Aug 5 (1 Month ago)",
+      "reading_time": 6,
+      "hashtags": ["#travel", "#lifestyle", "#remotework"]
+    }
+  ]
+  
