@@ -1,53 +1,55 @@
 [
-    {
+  {
       "id": 1,
-      "cover": "https://i.ibb.co/4N8kktq/florian-olivo-JNz9b-QD3-Oio-unsplash.jpg",
-      "title": "The Lost Kingdom",
-      "author": "John Smith",
-      "author_img": "https://i.ibb.co/ZYKRdx4/portrait-smiling-blonde-woman.jpg",
-      "posted_date": "Mar 14 (4 Days ago)",
-      "reading_time": 7,
-      "hashtags": ["#adventure", "#fantasy", "#mystery"]
-    },
-    {
-      "id": 2,
-      "cover": "https://i.ibb.co/qRqJ7wz/top-view-desk-concept-with-smartphone.jpg",
-      "title": "Into the Unknown",
-      "author": "Jane Doe",
-      "author_img": "https://i.ibb.co/G765jsg/front-view-smiley-woman-seaside.jpg",
-      "posted_date": "May 22 (18 Days ago)",
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "author": "Hamza Sohail",
+      "posted_date": "September 15, 2023",
       "reading_time": 5,
-      "hashtags": ["#sci-fi", "#exploration", "#space"]
-    },
-    {
+      "hashtags": [
+          "beginners",
+          "es6"
+      ]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "author": "Sajal Ali",
+      "posted_date": "August 28, 2023",
+      "reading_time": 4,
+      "hashtags": [
+          "javascript",
+          "coding",
+          "dev"
+      ]
+  },
+  {
       "id": 3,
-      "cover": "https://i.ibb.co/BZzNwNt/coffee-mug-with-drawing-foam-photo-camera.jpg",
-      "title": "The Art of Letting Go",
-      "author": "Emily Johnson",
-      "author_img": "https://i.ibb.co/qrDgjB9/bohemian-man-with-his-arms-crossed.jpg",
-      "posted_date": "Feb 14 (5 Month 4 Days ago)",
-      "reading_time": 3,
-      "hashtags": ["#selfhelp", "#mindfulness", "#growth"]
-    },
-    {
-      "id": 4,
-      "cover": "https://i.ibb.co/4PW3BTR/andras-vas-Bd7g-Nn-WJBk-U-unsplash.jpg",
-      "title": "Mysteries of the Deep",
-      "author": "David Brown",
-      "author_img": "https://i.ibb.co/9ZtZwrQ/portrait-young-bearded-man-looking-camera.jpg",
-      "posted_date": "Oct 14 (14 Days ago)",
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Component lifecycle in React — Class component vs Functional component",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "author": "Feroze Khan",
+      "posted_date": "July 10, 2023",
       "reading_time": 10,
-      "hashtags": ["#ocean", "#nature", "#wildlife"]
-    },
-    {
-      "id": 5,
-      "cover": "https://i.ibb.co/kJBH2pG/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
-      "title": "Digital Nomad's Guide",
-      "author": "Sophia Lee",
-      "author_img": "https://pexels.com/photo/author5",
-      "posted_date": "Aug 5 (1 Month ago)",
-      "reading_time": 6,
-      "hashtags": ["#travel", "#lifestyle", "#remotework"]
-    }
-  ]
-  
+      "hashtags": [
+          "mid_level",
+          "react"
+      ]
+  },
+  {
+      "id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Free images and resources collection for website",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "author": "Anmol Baloch",
+      "posted_date": "June 5, 2023",
+      "reading_time": 9,
+      "hashtags": [
+          "development",
+          "resources"
+      ]
+  }
+]
